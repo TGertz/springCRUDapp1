@@ -19,7 +19,7 @@ Data Source url: jdbc:postgresql://localhost:5432/first_db
 
 Username: postgres
 
-Password: TG150486
+Password: password
 
 
 # About the App: 
